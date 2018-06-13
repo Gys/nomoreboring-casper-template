@@ -515,6 +515,7 @@ body.nav-opened .site-wrapper {
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
+    opacity: 0.5;
 }
 
 .main-header .inner {
@@ -877,7 +878,7 @@ body.nav-opened .menu-button .word {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #000;
 }
 
 .page-description {
@@ -887,7 +888,7 @@ body.nav-opened .menu-button .word {
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: rgba(255,255,255,0.8);
+    color: #000;
 }
 
 .no-cover.main-header {
