@@ -11,9 +11,9 @@ canonifyurls = true
 
 [params]
   description1 = "Repetitive work can be labour intensive and boring."
-  description2 = "Businesses are often unaware of solutions to improve, especially if their activities are not directly IT related."
+  description2 = "Businesses are often unaware of solutions to improve, especially if the activities are not IT related."
   emailaddress = "challenge@nomoreboring.work"
-  emailtext = "Challenge Us For Change !"
+  emailtext = "Give Us Your Challenge !"
   cover = "images/papersondesk.jpg"
   # author = "Valère JEANTET"
   # authorlocation = "Paris, France"
