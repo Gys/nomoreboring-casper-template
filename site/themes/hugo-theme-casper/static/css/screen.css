@@ -883,6 +883,7 @@ body.nav-opened .menu-button .word {
 
 .page-description {
     margin: 0;
+    margin-bottom: 5px;
     font-size: 2rem;
     line-height: 1.5em;
     font-weight: 400;

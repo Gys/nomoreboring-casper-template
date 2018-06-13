@@ -10,10 +10,10 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description1 = "Repetitive work is often labour intensive and boring"
-  description2 = "People and businesses are often unaware of available solutions to improve work, especially if the business itself is not IT related"
-  emailaddress = "gijs@nomoreboring.work"
-  emailtext = "Challenge For Change !"
+  description1 = "Repetitive work is often labour intensive and boring."
+  description2 = "People and businesses are often unaware of available solutions to improve work, especially if the business itself is not IT related."
+  emailaddress = "challenge@nomoreboring.work"
+  emailtext = "Challenge Us For Change !"
   cover = "images/papersondesk.jpg"
   # author = "Valère JEANTET"
   # authorlocation = "Paris, France"
