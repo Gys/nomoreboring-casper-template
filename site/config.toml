@@ -10,8 +10,8 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description1 = "Repetitive work is often labour intensive and boring."
-  description2 = "People and businesses are often unaware of available solutions to improve work, especially if the business itself is not IT related."
+  description1 = "Repetitive work can be labour intensive and boring."
+  description2 = "Businesses are often unaware of solutions to improve, especially if their activities are not directly IT related."
   emailaddress = "challenge@nomoreboring.work"
   emailtext = "Challenge Us For Change !"
   cover = "images/papersondesk.jpg"
