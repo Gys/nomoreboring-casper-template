@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Repetitive work is often labour intensive and boring. We feel challenged to change that situation. People and businesses are often unaware of available solutions to improve work, especially if the business itself is not IT related."
+  description = "Repetitive work is often labour intensive and boring.<br>Challenge us for change !<br>People and businesses are often unaware of available solutions to improve work, especially if the business itself is not IT related.<br><a hef='mailto:gijs@nomoreboring.work'>Send Challenge !</a>"
   cover = "images/papersondesk.jpg"
   # author = "Valère JEANTET"
   # authorlocation = "Paris, France"
